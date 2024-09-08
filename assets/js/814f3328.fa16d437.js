@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktsc_blog=self.webpackChunktsc_blog||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/tscblog/blog/welcome","unlisted":false,"date":"2024-09-08T00:00:00.000Z"}]}')}}]);
