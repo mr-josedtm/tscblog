@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktsc_blog=self.webpackChunktsc_blog||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Blogging con GitHub Pages","permalink":"/tscblog/blog/blog-ghpages","unlisted":false,"date":"2025-12-09T00:00:00.000Z"}]}')}}]);
